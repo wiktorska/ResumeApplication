@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CVApplication</string>
+    <string name="welcome">Willkommen</string>
+    <string name="lan_en">Englisch</string>
+    <string name="lan_de">Deutsch</string>
+    <string name="lan_pl">Polisch</string>
+    <string name="action_settings">menu</string>
+</resources>
