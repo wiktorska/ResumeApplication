@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:background="@color/background"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:id="@+id/date"
+              android:textStyle="bold"
+              android:textSize="18sp"
+              android:textColor="@color/underline"/>
+
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:id="@+id/company_name"
+              android:textStyle="bold"
+              android:textSize="18sp"
+              android:textColor="@color/underline"
+              android:layout_below="@+id/date"/>
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:id="@+id/positions"
+              android:textStyle="bold"
+              style="@style/Plain"
+              android:layout_below="@+id/company_name"/>
+
+</RelativeLayout>

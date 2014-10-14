@@ -1,0 +1,142 @@
+{
+
+    "name":"Aleksandra",
+    "surname":"Wiktorska",
+    "profession":"Programista",
+    "mail":"aleksandra.wiktorska@yahoo.pl",
+    "address":{
+      "street":"Holzhäusernstrasse",
+      "streetNumber": 9,
+	  "homeNumber":" " ,
+	  "postNumber":"6313",
+	  "country":"Switzerland"
+    },
+	"phoneNumber":"+48 665 970 315",
+    "description":"	I am a software developer with three years experience in programming, including six months experience in managing small IT projects and team leading.\nI was always appreciated for strong engagement in entrusted tasks, creativity and very good communication and team-working skills. \nPersonally, I am a pleasant and optimistic person.",
+    "educationList":[
+      {
+        "startDate":"2011",
+        "endDate":"2014",
+        "degree":"Master Degree in Computer Science ",
+        "schoolName":"University of Lodz ",
+        "faculty":"Mathematics and Computer Science",
+        "fieldOfStudy":"Computer Science",
+        "major":"Specialization - Operating Systems "
+      },
+      {
+        "startDate":"2008",
+        "endDate":"2011",
+        "degree":"Bachelor Degree in Computer Science and Econometrics",
+        "schoolName":"University of Economics, Cracow ",
+        "faculty":"Faculty of Management",
+        "fieldOfStudy":"Computer Science and Econometrics",
+        "major":"Computer Science in Economy"
+      }
+    ],
+    "experienceList":[
+      {
+        "date":"09.2013 - 03.2014 ",
+        "position":"Project Manager, Android Developer",
+        "description":" ",
+        "companyName":"Liki MS Sp.z o.o"
+      },
+      {
+         "date":" 08.2013 - 09.2013",
+        "position":"Android Developer",
+        "description":" ",
+        "companyName":"Media4You Sp. z o.o"
+      },
+	   {
+        "date":"05.2012 - 06.2012",
+        "position":"Android Developer, PHP Developer , Mobile applications designer, System analyst",
+        "description":" ",
+        "companyName":"Orange Lab"
+      },
+	  {
+        "date":"04.2012 - 05.2012",
+        "position":"Java EE Developer, Node.js Developer",
+        "description":" ",
+        "companyName":"TomTom Polska Sp. z o.o"
+      },
+	  {
+       "date":"06.2011 - 10.2011",
+        "position":"JavaScript Developer",
+        "description":" ",
+        "companyName":"Capgemini Polska Sp. z o.o"
+      }
+    ],
+    "skillsList":[
+      {
+        "type":"Mobile Platforms",
+        "names":[
+          "Android",
+          "Windows Phone"
+        ]
+      },
+      {
+        "type":"Programming Language",
+        "names":[
+          "JavaSE",
+          "JavaEE"
+        ]
+      },
+	  {
+        "type":"Android Libraries",
+        "names":[
+          "GreenDAO",
+          "Dagger",
+		  "API Google Maps",
+		  "Android Annotation",
+		  "Roboguice",
+		  "GSON",
+		  "Otto",
+		  "Retrofit"
+        ]
+      },
+      {
+        "type":"Databases ",
+        "names":[
+          "SQLite",
+          "PostrgeSQL"
+        ]
+      },
+      {
+        "type":"Version Control System ",
+        "names":[
+          "SVN",
+          "Git",
+		  "Mercurial"
+        ]
+      },
+      {
+        "type":"Continous Integration Tools",
+        "names":[
+          "Jenkins"
+          
+        ]
+      },
+      {
+        "type":"Project Methodologies",
+        "names":[
+          "Scrum",
+          "Kanban",
+		  "PRINCE2"
+        ]
+      },
+      {
+        "type":"Languages",
+        "names":[
+          "Polish",
+          "English"
+        ]
+      },
+      {
+        "type":"Others",
+        "names":[
+          "GlxInfo",
+          "Hierarchy Viewer"
+        ]
+      }
+    ]   
+
+}

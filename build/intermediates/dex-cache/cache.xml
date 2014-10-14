@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\Anroid Project\ResumeApplication\app\build\intermediates\pre-dexed\debug\gson-2.2.4-fee96fa6e8e4d4804cf38abfda4af5f159d18f94.jar"
+        jar="C:\Users\avelife\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568"/>
+    <item
+        dex="D:\Anroid Project\ResumeApplication\app\build\intermediates\pre-dexed\debug\androidannotations-api-3.0.1-91df64d34110688037e776ba4ba183da19597480.jar"
+        jar="C:\Users\avelife\.gradle\caches\modules-2\files-2.1\org.androidannotations\androidannotations-api\3.0.1\beb7e0a75c753383e7ef68c0e1639999db301c33\androidannotations-api-3.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="beb7e0a75c753383e7ef68c0e1639999db301c33"/>
+    <item
+        dex="D:\Anroid Project\ResumeApplication\app\build\intermediates\pre-dexed\debug\classes-d2f3f2e1a0d0f0924424b10019f069c50024cb5a.jar"
+        jar="D:\Anroid Project\ResumeApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="D:\Anroid Project\ResumeApplication\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-2aa629f9448dc423eb01004e8d0a0a3f07cdffdf.jar"
+        jar="D:\Android SDK\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="D:\Anroid Project\ResumeApplication\app\build\intermediates\pre-dexed\debug\picasso-2.3.1-a8c8ae3121142feb1a0344c33434174db937ffb1.jar"
+        jar="C:\Users\avelife\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.1\7ed01353649330c692473b85d5c64db4218338db\picasso-2.3.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7ed01353649330c692473b85d5c64db4218338db"/>
+
+</pre-dex-items>

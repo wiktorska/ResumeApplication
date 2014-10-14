@@ -1,0 +1,142 @@
+{
+
+    "name":"Aleksandra",
+    "surname":"Wiktorska",
+    "profession":"Programista",
+    "mail":"aleksandra.wiktorska@yahoo.pl",
+    "address":{
+      "street":"Holzhäusernstrasse",
+      "streetNumber": 9,
+	  "homeNumber": " ",
+	  "postNumber":"6313",
+	  "country":"Szwajcaria"
+    },
+	"phoneNumber":"+48 665 970 315",
+    "description":"W chwili obecnej posiadam trzyletnie doświadczenie w programowaniu. Ostatnie pół roku pracy w fimie Liki MS zajmowałam się również prowadzeniem małych projektów oraz wspomaganiu pracy programistów. We wszystkich swoich dotychczasowych miejscach pracy ceniono mnie za zaangażowanie w powierzone zadania, kreatywność, otwartość i dobre umiejętności komunikacyjne. \nPrywatnie, jestem optymistyczną osobą wykorzystyjący każdy swój dzień.",
+    "educationList":[
+      {
+        "startDate":"2011",
+        "endDate":"2014",
+        "degree":"Magister",
+        "schoolName":"Uniwersytet Łódzki",
+        "faculty":"Wydział Matematyki i Informatyki",
+        "fieldOfStudy":"Kierunek Informatyka",
+        "major":"Specjalność Systemy Informatyczne"
+      },
+      {
+        "startDate":"2008",
+        "endDate":"2011",
+        "degree":"Licencjat",
+        "schoolName":"Uniwersytet Ekonomiczny w Krakowie",
+        "faculty":"Wydział Zarządzania",
+        "fieldOfStudy":"Informatyka i Ekonometria",
+        "major":"Informatyka Ekonomiczna"
+      }
+    ],
+    "experienceList":[
+      {
+       "date":"09.2013 - 03.2014 ",
+        "position":"Projekt Manager, Programista Android ",
+        "description":" ",
+        "companyName":"Liki MS Sp.z o.o"
+      },
+      {
+        "date":" 08.2013 - 09.2013",
+        "position":"Programista Android",
+        "description":" ",
+        "companyName":"Media4You Sp. z o.o"
+      },
+	   {
+        "date":"05.2012 - 06.2012",
+        "position":"Programista Android, Programista PHP, Projektant Aplikacji Mobilnych",
+        "description":" ",
+        "companyName":"Orange Lab"
+      },
+	  {
+        "date":"04.2012 - 05.2012",
+        "position":"Programista JEE, Node.js",
+        "description":" ",
+        "companyName":"TomTom Polska Sp. z o.o"
+      },
+	  {
+        "date":"06.2011 - 10.2011",
+        "position":"Programista JavaScript",
+        "description":" ",
+        "companyName":"Capgemini Polska Sp. z o.o"
+      }
+    ],
+    "skillsList":[
+      {
+        "type":"Platformy Mobilne",
+        "names":[
+          "Android",
+          "Windows Phone"
+        ]
+      },
+      {
+        "type":"Języki Programowania",
+        "names":[
+          "JavaSE",
+          "JavaEE"
+        ]
+      },
+	  {
+        "type":"Biblioteki Android",
+        "names":[
+          "GreenDAO",
+          "Dagger",
+		  "API Google Maps",
+		  "Android Annotation",
+		  "Roboguice",
+		  "GSON",
+		  "Otto",
+		  "Retrofit"
+        ]
+      },
+      {
+        "type":"Bazy Danych ",
+        "names":[
+          "SQLite",
+          "PostrgeSQL"
+        ]
+      },
+      {
+        "type":"Systemy Kontroli Wersji",
+        "names":[
+          "SVN",
+          "Git",
+		  "Mercurial"
+        ]
+      },
+      {
+        "type":"Narzędzia integracji",
+        "names":[
+          "Jenkins"
+          
+        ]
+      },
+      {
+        "type":"Metodologie zarządzania projektami",
+        "names":[
+          "Scrum",
+          "Kanban",
+		  "PRINCE2"
+        ]
+      },
+      {
+        "type":"Języki",
+        "names":[
+          "Polish",
+          "English"
+        ]
+      },
+      {
+        "type":"Inne (Android)",
+        "names":[
+          "GlxInfo",
+          "Hierarchy Viewer"
+        ]
+      }
+    ]   
+
+}

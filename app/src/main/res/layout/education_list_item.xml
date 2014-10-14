@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:background="@color/background"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:id="@+id/start_date_ed"
+              android:textStyle="bold"
+              android:textSize="18sp"
+              android:textColor="@color/underline"/>
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:id="@+id/end_date_ed"
+              android:textStyle="bold"
+              android:textSize="18sp"
+              android:textColor="@color/underline"
+              android:layout_toRightOf="@+id/start_date_ed"/>
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:id="@+id/degree"
+              android:textStyle="bold"
+              android:textSize="18sp"
+              android:textColor="@color/underline"
+              android:layout_below="@+id/start_date_ed"/>
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:id="@+id/school_name"
+              android:textStyle="bold"
+              style="@style/Plain"
+              android:layout_below="@+id/degree"/>
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:id="@+id/faculty"
+              android:textStyle="bold"
+              style="@style/Plain"
+              android:layout_below="@+id/school_name"/>
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:id="@+id/field_study"
+              android:textStyle="bold"
+              style="@style/Plain"
+              android:layout_below="@+id/faculty"/>
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:id="@+id/major"
+              android:textStyle="bold"
+              style="@style/Plain"
+              android:layout_below="@+id/field_study"/>
+
+</RelativeLayout>

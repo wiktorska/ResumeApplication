@@ -3,7 +3,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:0.9.+'
+        classpath 'com.android.tools.build:gradle:0.12.2'
         classpath 'com.neenbedankt.gradle.plugins:android-apt:1.2+'
     }
 }
@@ -39,8 +39,10 @@ apt {
 }
 
 dependencies {
-    apt "org.androidannotations:androidannotations:3.0+"          // add these
-    compile "org.androidannotations:androidannotations-api:3.0+"  // two lines
+    apt "org.androidannotations:androidannotations:3.0+"
+    compile "org.androidannotations:androidannotations-api:3.0+"
+    compile 'com.google.code.gson:gson:2.2.4'
     compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.squareup.picasso:picasso:2.3.1'
     compile 'com.android.support:appcompat-v7:19.+'
 }

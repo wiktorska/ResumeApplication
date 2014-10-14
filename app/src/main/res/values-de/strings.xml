@@ -6,4 +6,10 @@
     <string name="lan_de">Deutsch</string>
     <string name="lan_pl">Polisch</string>
     <string name="action_settings">menu</string>
+    <string name="introduction_head">Willkommen!</string>
+    <string name="inform">O mnie DE </string>
+    <string name="experience_header">Doświadczenie DE</string>
+    <string name="introduction">My name is %1$s. I would like to introduce myself. \n If you want to know me better, please swipe every view on the right. \nAre you ready?</string>
+    <string name="education_header">Education DE</string>
+    <string name="skills_summary_header">Skills Summary DE</string>
 </resources>
