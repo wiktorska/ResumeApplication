@@ -30,7 +30,7 @@ public class ExperienceItemView extends RelativeLayout{
 
     }
     public void pullData(Experience exp){
-        startDate.setText(exp.getStartDate());
+        startDate.setText(exp.getDate());
         positions.setText(exp.getPosition());
         companyName.setText(exp.getCompanyName());
     }

@@ -59,7 +59,7 @@ public class ExperienceViewPager extends PagerAdapter {
     }
 
     public void pullData(Experience exp){
-        date.setText(exp.getStartDate());
+        date.setText(exp.getDate());
 
         positions.setText(exp.getPosition());
         companyName.setText(exp.getCompanyName());
